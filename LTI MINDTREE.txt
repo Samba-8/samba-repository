@@ -1,0 +1,558 @@
+Which are will replace the question mark.
+
+
+75
+26
+25
+20
+2
+
+There are four trees A, B, C and D situated on the corner of square park and the distance between two tree is 100 km. A man travels A to B at 10 km/hr, B to C at 20 km/h, C to D at 30 km/h and D to A at 40 km/hr. Find his average speed for the whole journey.
+
+18 1/5 km/h
+19 1/6 km/h
+19 1/5 km/h
+20 km/h
+3
+
+A person running at 9/11 of his usual speed reaches at a place in 22 hours. How much time would he save if he run by his normal speed?
+
+3 hours
+5 hours
+6 hours
+4 hours
+4
+
+A certain sum of money becomes 8 times of itself in 4 years at simple interest. In how much time it will be 64 times of itself?
+
+16 years
+24 years
+36 years
+48 years
+5
+
+If the side of a cube is increased by 20%, then what will be the percentage increase in the volume of cube?
+
+60
+66.6
+72.8
+68.5
+6
+
+What is the length of the longest rod that can be placed in a room which is 6 metres long, 8 metres broad and 20 metres high?
+
+15 root of 5
+20
+15
+10 root of 5
+7
+
+A shopkeeper sold an item at 10% loss after giving a discount equal to half of the marked price. Find the cost price of item, if marked price is Rs.180.
+
+Rs.100
+Rs. 90
+Rs.110
+Rs.200
+8
+
+A boy can swim in still water at a speed of 12 km/h. If the speed of the current would have been 3 km/h, then in how much time the boy could swim 72 km?
+
+Downstream 10 hours
+Downstream 8 hours
+Upstream 10 hours
+Upstream 8 hours
+9
+
+A, B and C can complete a piece of work in 6 days. If A can work thrice faster than B and twice faster than C, then find the number of days in which C alone can complete the work.
+
+20 days
+22 days
+24 days
+25 days
+10
+
+A mixture of certain quantity of alcohol with 16 litres of water is worth 90 paise per litre. If pure alcohol be worth Rs. 1.80 per litre,then how much alcohol will be in the mixture?
+
+40 litres
+16 litres
+60 litres
+80 litres
+11
+
+A is 16.66% less than B. If value of A is 500, then what is the value of B?
+
+58C.33
+566.66
+600
+620
+12
+
+A man bought 40 dozen eggs for Rs.1440. What should be selling price of each egg, if he wants to make a profit of 16 2/3% ?
+
+Rs. 4
+Rs. 5
+Rs. 3.5
+Rs. 6
+13
+
+If the diagonal of a cube is 7 root of 3 cm, then find its volume and total surface area.
+
+294 cm.3, 334 cm.2
+343 cm.3, 249 cm.2
+343 cm.3, 294 cm.2
+243 cm.3, 294 cm.2
+14
+
+The sum of three consecutive natural numbers is always divisible by ____.
+
+3
+9
+15
+21
+15
+
+Ravi deposited Rs. 40,000 in a fixed deposit at the rate of 20% per annum simple interest. At the end of the second year he adds his interest earned to the principal. The interest earned on the new principal at the end of the fourth year is:
+
+24000
+21800
+22400
+38400
+16
+
+If the cost price and selling price of an article are in the ratio of 9 : 11, then find the percentage of profit.
+
+21 9/2%
+22 2/9%
+22 7/9%
+21 2/9%
+17
+
+Select the correct active form of the given sentence.
+Every passing vehicle was being thoroughly checked by the guards.
+
+the guards were thoroughly checking every passing vehicle
+the guards have thoroughly checked every passing vehicle
+every passing vehicle were thoroughly checking the guards
+the guards have been thoroughly checking
+18
+
+Select the wrongly spelt word
+
+calander
+career
+callous
+carriage
+19
+
+Select the most appropriate word to fill in the blank
+Around sixty bands in colourful _________took part in the Notting Hill Carnival.
+
+clothings
+costumes
+apparels
+dressing
+20
+
+Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select “no improvement”. If you park your car here, the traffic police has fined you
+
+will fine you
+no improvement
+fine you
+fined you
+21
+
+choose the correct indirect speech sentence for the following
+The doctor said to the patient, “ stop eating non-veg.”
+
+The doctor suggested the patient he should stop eating non-veg.
+The doctor suggested to the patient to stop eating non-veg.
+The doctor suggested to the patient that he should stop eating non-veg.
+The doctor advised the patient for stop eating non-veg.
+22
+
+Read the following passage and Answer the following questions. Some words are highlighted to help you Answer some of the questions.
+In the near future, space debris will become a critical challenge for the global community, endangering access to space and the benefits this access brings. In recent years, the $360 billion global space economy has experienced a transformation. Declining costs, satellite and launcher size evolutions and the proliferation of related technology has led to a surge in satellite launches, many of which are conducted by new space enterprises and nations. Over the coming years, thousands of payloads are expected to be launched by the commercial sector alone, adding to the over 2,000 already active satellites in orbit. This transformation and rapid growth are anticipated to increase the space sector’s vital role in telecommunications, remote sensing, space science and national security, making it a vital node of the Fourth Industrial Revolution’s infrastructure.
+However, the rush in space activity is already adding to a crowded orbit. With over 20,000 pieces of debris larger than 10 centimetres tracked in orbit and many more untracked, the rise in space activity will lead to even more debris, increasing collision risk. The orbital environment is a globally shared resource where existing international guidelines steer space actors in their activities, however, these are not enforceable and derived standards are not always followed. Neither are guidelines expected to sufficiently curtail the creation of new debris in the coming years caused by fundamental shifts in traffic. Therefore, an opportunity exists to develop a solution based on a multi stakeholder approach built on public-private collaboration.
+As the challenge of orbital debris or “space junk” is set to grow, current and future missions face an increasing risk of possible collisions. The Space Sustainability Rating (SSR) will provide a new, innovative way of addressing the orbital challenge by encouraging responsible behaviour in space through increasing the transparency of organizations’ debris mitigation efforts. The SSR will provide a score representing a mission’s sustainability as it relates to debris mitigation and alignment with international guidelines. Organizations will provide mission data through a questionnaire, which will be evaluated in combination with other external data through a mathematical model that establishes a rating for the mission. By voluntarily taking part in the rating, spacecraft operators, launch service providers and satellite manufacturers will share a single point of reference externally describing their mission’s level of sustainability. Making their aggregate score publicly available, these actors will increase transparency and place emphasis on their debris mitigation approach, without disclosing any mission-sensitive or proprietary information. The rating may also act as a differentiator and trigger positive outcomes (e.g. impacting insurance cost or funding conditions), incentivizing other stakeholders to improve their behavior.
+What has led to a surge in Satellite launch in these days?
+
+Reduced operational costs, satellite and launcher size evolutions and the rapid increase of related technology.
+Space launch market competition is the manifestation of market forces in the launch service provider business.
+The current trends in launch traffic are focusing on describing the characteristics of small satellites.
+Due to the excess supply compared to demand, it led to a surge in Satellite launch.
+23
+
+What are the benefits of the rapid growth in satellite launching?
+
+The new smaller type satellites are able to do close observation giving the credible information.
+Its revolution in the area of overall allied sectors related to transportation.
+It augments its role in areas like telecommunications, remote sensing, space science and national security.
+These technologies are alike in the rapid and widespread manner in which they are transforming or promise to transform economic sectors.
+24
+
+What is the threat mentioned in the passage author talks about in the orbit?
+
+Hundreds of thousands of man-made objects are zipping around our planet—from dead satellites to errant nuts and bolts making it a huge Junk.
+The increase in the number of debris can led to a further change in the atmosphere in the space.
+The increase in debris can have an increased chance of collision in the orbit.
+Both B & C
+25
+
+According to the passage what is the need of Space Sustainability Rating?
+
+Identifying areas of concern and providing an innovative way for the long-term sustainability of outer space activities through its debris reduction efforts.
+Assessing how patterns of water and energy may be affected by climate change.
+Minimizing the impact of the risk events—occurrences that have a negative impact on the project.
+It helps to invent new things better from the “Space Junk” in the space.
+26
+
+Which of the following sentence is incorrect as given in the passage?
+
+Space debris will become a critical challenge in the future.
+There are 2,000 active satellites in orbit.
+The SSR provides a score representing a mission’s sustainability as it relates to debris mitigation and alignment with international guidelines.
+As the challenge of orbital debris or “space junk” is set to grow, current and future missions is free from those risks by the introduction of new ‘space risk reduction’ tool.
+27
+
+Directions : study the following information to answer the given questions P,Q,R,S,T,U,V and W are eight friends sitting around circle facing towards the centre
+i)W is on the immediate left of P but is not the neighbor of T or S
+ii)U is on immediate right of Q and V is the neighbor of T
+iii)R is between T and U.
+Which of the following statements is true?
+
+T is between U and Q
+U is the neighbor of V
+V is between W and T
+W is between P and S
+28
+
+Directions : study the following information to answer the given questions P,Q,R,S,T,U,V and W are eight friends sitting around circle facing towards the centre
+i)W is on the immediate left of P but is not the neighbor of T or S
+ii)U is on immediate right of Q and V is the neighbor of T
+iii)R is between T and U.
+What is the position of S?
+
+On the immediate left of Q
+Second to the right of U
+Between Q and U
+On the immediate left of P
+29
+
+What is the output of C program with structures.?
+void show(int,int);
+int main()
+{
+struct paint{
+int type;
+int color;
+}p;
+p.type=1;
+p.color=5;
+show(p.type,p.color);
+return 0;
+}
+void show(int a,int b)
+{
+printf(“%d %d”,a,b);
+}
+
+1 1
+1 5
+5 1
+Compiler error
+30
+
+Directions : study the following information to answer the given questions P,Q,R,S,T,U,V and W are eight friends sitting around circle facing towards the centre
+i)W is on the immediate left of P but is not the neighbor of T or S
+ii)U is on immediate right of Q and V is the neighbor of T
+iii)R is between T and U.
+What is the position of V?
+
+Second to the left of S
+Third of the right of U
+On the immediate right of W
+Between T and R
+31
+
+What are the types of data allowed inside a structure.?
+
+int, float, double, long double
+char, enum, union
+pointers and Same structure type members
+All the above
+32
+
+Directions :: read the following passage to answer these questions:
+Anita , Mahima ,Rajan ,Lata and Deepthi are five cousins . Anita is twice as old as Mahima . Rajan is half the age of Mahima . Anita is half the age of Deepthi and Rajan is twice the age of Lata.
+Who is the youngest?
+
+Deepthi
+Rajan
+Lata
+Anita
+33
+
+Choose a correct C Statement regarding for loop. for(; ;);
+
+for loop works exactly first time
+for loop works infinite number of times
+Compiler error
+None of the above
+34
+
+Directions :: read the following passage to answer these questions:
+Anita , Mahima ,Rajan ,Lata and Deepthi are five cousins . Anita is twice as old as Mahima . Rajan is half the age of Mahima . Anita is half the age of Deepthi and Rajan is twice the age of Lata.
+Who is eldest?
+
+Deepthi
+Lata
+Anita
+None of these
+35
+
+What is the output of C program with switch statement or block.?
+int main()
+{
+int a;
+switch(a);
+{
+printf(“DEER”);
+}
+printf(“LION”); }
+
+LION
+DEER LION
+Compiler error
+None of the above
+36
+
+Directions :: read the following passage to answer these questions:
+Anita , Mahima ,Rajan ,Lata and Deepthi are five cousins . Anita is twice as old as Mahima . Rajan is half the age of Mahima . Anita is half the age of Deepthi and Rajan is twice the age of Lata.
+Which of the following pairs of persons are of the same age?
+
+Mahima and lata
+Anita and mahima
+Mahima and rajan
+None of these
+37
+
+What is the output of C Program with switch statement or block.?
+int main()
+{
+int k=8;
+switch(k)
+{
+case 1==8: printf(“ROSE “);break;
+case 1 && 2: printf(“JASMINE “); break;
+default: printf(“FLOWER “);
+}
+printf(“GARDEN”);
+}
+
+ROSE GARGEN
+JASMINE GARDEN
+FLOWER GARDEN
+Compiler error
+38
+
+A persons starts from his house and travels a distance of 10m southwards and then travels a distance of 12m rightwards, then travels distance of 10m rightwards and finally travels a distance of 10m in the eastern direction. At what horizontal distance is he from his house?
+
+2 m
+10 m
+12 m
+Can`t say
+39
+
+What is an Identifier in C Language.?
+
+Name of a Function or Variable
+Name of a Macros
+Name of Structure or Union
+All the above.
+40
+
+Town D is to the West of town M. Town R is to the south of town D. Town K is the East of Town R. Town K is towards which direction of town D?
+
+South
+East
+North-East
+South-East
+41
+
+Choose correct statements
+
+A constant value does not change. A variable value can change according to needs.
+A constant can change its values. A variable can have one constant value only.
+There is no restriction on number of values for constants or variables.
+Constants and Variables can not be used in a singe main function.
+42
+
+Showing a lady, Haritha said “she is the daughter of the woman who is the mother of the husband of my mother. How is the lady related Haritha?
+
+sister
+Mother
+aunt
+daughter
+43
+
+Find a Floating Point constant.
+
+12.3E5
+12e34
+125.34857
+All the above.
+44
+
+P+Q means P is the daughter of Q, P*Q means P is the son of Q; P-Q means P is the wife of Q. If P-Q*S, which of the following is true?
+
+S is the father of P
+S is the wife of Q
+Q is the father of P
+P is the daughter in law of S.
+45
+
+What is the output of C program.?
+int main()
+{
+float marks[3] = {90.5, 92.5, 96.5};
+int a=0;
+while(a<3) {
+printf(“%.2f,”, marks[a]);
+a++;
+}
+}
+
+90.5 92.5 96.5
+90.50 92.50 96.50
+0.00 0.00 0.00
+Compiler error
+46
+
+Find out the odd one.
+
+Goat
+Cow
+Cat
+Camel
+47
+
+Love: Hate:: Proud : ?
+
+Humble
+Conceited
+Miserable
+Sorrowful
+48
+
+In a certain code ABRACADABRA is coded as ZYIZXZWZYIZ. How will the word HOCUSPOCUS be coded in that code language?
+
+SLXFHKLXFH
+SLXZHKLXFH
+SSLXFHKMXFH
+None of these.
+49
+
+The main task carried out in the __________ is to remove repeating attributes to separate tables.
+
+First Normal Form
+Second Normal Form
+Third Normal Form
+Fourth Normal Form
+50
+
+Which class provides many methods for graphics programming?
+
+java.awt
+java.Graphics
+Java.awt.Graphics
+None of the above
+51
+
+In 2NF
+
+No functional dependencies (FDs) exist
+No multivalued dependencies (MVDs) exist
+No partial FDs exist
+No partial MVDs exist
+52
+
+Which package provides swings supproted classes?
+
+java.awt.swing.*;
+java.swing.Graphics
+javax.swing.*;
+javax.swing.applet.*;
+53
+
+Which of the following is not possible in the awt.
+
+Creating Buttons
+Creating Choice box
+Creating Labels
+Creating Trees
+54
+
+Which concept of Java is achieved by combining methods and attribute into a class?
+
+Encapsulation
+Inheritance
+Polymorphism
+Abstraction
+55
+
+Which of the following is a valid declaration of an object of class Box?
+
+Box obj = new Box();
+Box obj = new Box;
+obj = new Box();
+new Box obj;
+56
+
+Aggregate functions are functions that take a ___________ as input and return a single value.
+
+Collection of values
+Single value
+Aggregate value
+Both Collection of values & Single value
+57
+
+What is true about constructor?
+
+It can contain return type
+It can take any number of parameters
+It can have any non access modifiers
+Constructor cannot throw an exception
+58
+
+Which of these can be overloaded?
+
+Methods
+Constructors
+All of the mentioned
+None of the mentioned
+59
+
+Which function is used to perform some action when the object is to be destroyed?
+
+finalize()
+delete()
+main()
+none of the mentioned
+60
+
+Directions to Solve : In each question below is given a statement followed by two assumptions numbered I and II. You have to consider the statement and the following assumptions and decide which of the assumptions is implicit in the statement.
+Give answer
+• (A) If only assumption I is implicit
+• (B) If only assumption II is implicit
+• (C) If either I or II is implicit
+• (D) If neither I nor II is implicit
+• (E) If both I and II are implicit.
+Statement: You are hereby appointed as a programmer with a probation period of one year and your performance will be reviewed at the end of the period for confirmation. - A line in an appointment letter.
+Assumptions:
+I. The performance of an individual generally is not known at the time of appointment offer.
+II. Generally an individual tries to prove his worth in the probation period.
+
+Only assumption I is implicit
+Only assumption II is implicit
+Either I or II is implicit
+Both I and II are implicit
